@@ -44,6 +44,7 @@ Replace | Data    | 47017000 70000102
 In the ACPI - Patch section.
 
 ## Special Thanks
-Person on Reddit who I found the POST error patch from
-acidanthera for [OpenCore](https://github.com/acidanthera/OpenCorePkg) and half the kexts here
+- Person on Reddit who I found the POST error patch from
+- acidanthera for [OpenCore](https://github.com/acidanthera/OpenCorePkg) and half the kexts here
+
 Piece to da brok3n cr3w, you all 1337!
