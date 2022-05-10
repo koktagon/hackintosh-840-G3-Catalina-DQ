@@ -5,28 +5,28 @@
 
 Things that are working and their corresponding kexts:
 
-Intel HD 520 graphics - [WhateverGreen](https://github.com/acidanthera/WhateverGreen), ig-platform-id 00001619
-Conexant CX20724 ISST Audio - [AppleALC](https://github.com/acidanthera/AppleALC), layout ID 13
-Intel AC 8260 WiFi+BT - [AirportItlwm](https://github.com/OpenIntelWireless/itlwm) + [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware), SecureBootModel j680
-Intel I219-LM Ethernet - [IntelMausiEthernet](https://github.com/acidanthera/IntelMausi)
-Battery percentage (no cycle info) - [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC), [ECEnabler](https://github.com/1Revenger1/ECEnabler)
-Realtek SD card reader - [Sinetek-rtsx](https://github.com/cholonam/Sinetek-rtsx)
-Keyboard and mouse nipple - [VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2)
-SMBus trackpad - [VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI)
-Screen brightness via SSDT-PNLF
-Fn hotkeys (mostly)
-DisplayPort and VGA outputs
+- Intel HD 520 graphics - [WhateverGreen](https://github.com/acidanthera/WhateverGreen), ig-platform-id 00001619
+- Conexant CX20724 ISST Audio - [AppleALC](https://github.com/acidanthera/AppleALC), layout ID 13
+- Intel AC 8260 WiFi+BT - [AirportItlwm](https://github.com/OpenIntelWireless/itlwm) + [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware), SecureBootModel j680
+- Intel I219-LM Ethernet - [IntelMausiEthernet](https://github.com/acidanthera/IntelMausi)
+- Battery percentage (no cycle info) - [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC), [ECEnabler](https://github.com/1Revenger1/ECEnabler)
+- Realtek SD card reader - [Sinetek-rtsx](https://github.com/cholonam/Sinetek-rtsx)
+- Keyboard and mouse nipple - [VoodooPS2Controller](https://github.com/acidanthera/VoodooPS2)
+- SMBus trackpad - [VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI)
+- Screen brightness via SSDT-PNLF
+- Fn hotkeys (mostly)
+- DisplayPort and VGA outputs
 
 Things partially or not working:
-Mic mute
-WiFi button only disables Bluetooth
-Numlock
+- Mic mute
+- WiFi button only disables Bluetooth
+- Numlock
 
 Untested:
-Dock connector and docking functionality
+- Dock connector and docking functionality
 
 Known bugs:
-Lowest screen brightness setting turns off backlight
+- Lowest screen brightness setting turns off backlight
 
 ## ACPI POST error fix
 
