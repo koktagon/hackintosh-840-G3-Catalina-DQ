@@ -43,6 +43,10 @@ Replace | Data    | 47017000 70000102
 ```
 In the ACPI - Patch section.
 
+## OCB StartImage Failed, Security Violation - what do?
+
+Follow the troubleshooting steps [here](https://dortania.github.io/OpenCore-Post-Install/universal/security/applesecureboot.html#special-notes-with-securebootmodel)
+
 ## Special Thanks
 - Person on Reddit who I found the POST error patch from
 - acidanthera for [OpenCore](https://github.com/acidanthera/OpenCorePkg) and half the kexts here
