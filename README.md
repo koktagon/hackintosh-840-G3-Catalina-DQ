@@ -1,7 +1,7 @@
 # Hackintosh HP EliteBook 840 G3
 ## macOS Catalina 10.15.7 - OpenCore version 0.7.8 - Deutsche Qualität
 
-![skrienshod.png]
+![./skrienshod.png]
 
 Things that are working and their corresponding kexts:
 
