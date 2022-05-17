@@ -1,7 +1,7 @@
 # Hackintosh HP EliteBook 840 G3
 ## macOS Monterey 12.4 - OpenCore version 0.7.8 - Deutsche Qualität
 
-![obligatory screenshot](/images/skrienshod 2.png)
+![obligatory screenshot](/images/skrienshod2.png)
 
 Things that are working and their corresponding kexts:
 
