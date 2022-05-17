@@ -1,7 +1,7 @@
 # Hackintosh HP EliteBook 840 G3
-## macOS Catalina 10.15.7 - OpenCore version 0.7.8 - Deutsche Qualität
+## macOS Monterey 12.4 - OpenCore version 0.7.8 - Deutsche Qualität
 
-![obligatory screenshot](/images/skrienshod.png)
+![obligatory screenshot](/images/skrienshod 2.png)
 
 Things that are working and their corresponding kexts:
 
@@ -27,6 +27,7 @@ Untested:
 
 Known bugs:
 - Lowest screen brightness setting turns off backlight
+- VoodooRMI sometimes fails to load properly, requiring a reboot
 
 ## ACPI POST error fix
 
