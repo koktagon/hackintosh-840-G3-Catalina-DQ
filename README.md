@@ -28,6 +28,7 @@ Untested:
 Known bugs:
 - Lowest screen brightness setting turns off backlight
 
+SMBIOS is blanked on purpose, you need to provide your own, use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) for that
 ## ACPI POST error fix
 
 I added this as without it, I would get a POST error every time I booted the machine.
