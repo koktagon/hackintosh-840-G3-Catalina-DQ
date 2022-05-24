@@ -1456,15 +1456,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-<<<<<<< Updated upstream
 			<string>PROVIDEYOUROWN</string>
-=======
-<<<<<<< HEAD
-			<string>GETYOUROWN</string>
-=======
-			<string>PROVIDEYOUROWN</string>
->>>>>>> a6e5d3afe27d00567ccac7585a5c4c64456f878d
->>>>>>> Stashed changes
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
